@@ -1,6 +1,5 @@
 # Lesson Plan for Instructors
-## Summer Institutes in Computational Social Science 2020
-## Day 5, Mass collaboration
+## Fragile Families Challenge class activity
 ## Prepared by Matt Salganik and Ian Lundberg
 
 This document assumes that you have also read the [lesson plan for participants](https://https://github.com/fragilefamilieschallenge/teaching-support/lesson_plan_masscollaboration_participant.md).
@@ -21,9 +20,7 @@ Form groups of roughly 3 people randomly. You might consider distributing those 
 
 ### A note about scoring
 
-The [online submission site](https://codalab.fragilefamilieschallenge.org/competitions/28) scores submissions on the leaderboard set (530 cases, 1/8 of the sample). Participants are able to view their score on this set for each submission. In the original Challenge, we ultimately scored participants one time on the holdout set (1,591 cases). You may also want to score submissions on the holdout set one time at the end of the exercise. This will require manual coordination with the central organizers. If you want to do this, message Ian Lundberg to tell him the time at which your exercise will end. If we can coordinate the schedule successfully, Ian can score all submissions on the leaderboard at this time using the holdout data and email the scores to you. Because this is a manual process, it is possible that there will be problems.
-
-If coordination is difficult, scoring on the holdout set may not be necessary. For pedagogical purposes, it may suffice for participants at SICSS to see their score on the leaderboard set, which will happen automatically in real time.
+The [online submission site](https://codalab.fragilefamilieschallenge.org/competitions/28) (note: for your class, the correct link site may be different) scores submissions on the leaderboard set (530 cases, 1/8 of the sample). Participants are able to view their score on this set for each submission. In the original Challenge, we ultimately scored participants one time on the holdout set (1,591 cases). This is a more involved process; contact us if you think it would be helpful in your class. It will require us to manually download the submissions your class makes and send them to you, which you could then score against the true holdout outcomes available from the OPR data archive at FFChallenge_v5 / Fragile Families Challenge / test.zip.
 
 ### How to debrief
 

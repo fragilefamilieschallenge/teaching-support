@@ -1,7 +1,8 @@
 # Lesson Plan for Participants
-## Summer Institutes in Computational Social Science 2020
-## Day 5, Mass collaboration
+## Fragile Families Challenge class activity
 ## Prepared by Matt Salganik and Ian Lundberg
+
+This lesson plan was designed for the 2020 [Summer Institutes in Computational Social Science](https://sicss.io/). We have modified it slightly to make it applicable to other courses.
 
 ### Summary
 
@@ -18,7 +19,7 @@ In this activity, you will take part in a simulated Fragile Families Challenge. 
 Well in advance of the activity, you will need to apply for data access.
 
 - Register for an account on the [OPR data archive](https://opr.princeton.edu/archive/restricted/Default.aspx)
-- Visit your [switchboard](https://opr.princeton.edu/archive/restricted/Switchboard.aspx) and sign up for access to the Fragile Families and Child Wellbeing Study. When asked about your plans for using the data, write "I will be participating in the Fragile Families Challenge as part of SICSS." You may also include any additional plans for using the data.
+- Visit your [switchboard](https://opr.princeton.edu/archive/restricted/Switchboard.aspx) and sign up for access to the Fragile Families and Child Wellbeing Study. When asked about your plans for using the data, write "I will be participating in the Fragile Families Challenge as part of [name of course]." Say a bit more about yourself so that your statement contains at least 25 words. You may also include any additional plans for using the data.
 - We approve these applications manually. There will be a lag before the next steps.
 - Once approved, you may receive an email from the Fragile Families Study. They will direct you to the files stored on the [OPR data archive](https://opr.princeton.edu/archive/restricted/Default.aspx). After logging in, go to the Fragile Families and Child Wellbeing Study, then to the Fragile Families Challenge, then download and unzip FFChallenge_v5.
 - If you want to use a simplified data file, open R and type the following
@@ -37,7 +38,7 @@ You can read more about our approach to ethical data access in our [paper](https
 
 - 1 hour: Prepare a data file for analysis
 - Break. If you are not happy with your prepared data file, we recommend using the cleaned file that we provided in the folder we emailed you. This will allow you to proceed to the next step.
-- 2 hours: In groups, build predictive models and submit to the [submission site](https://codalab.fragilefamilieschallenge.org/competitions/28). Do not expect to try many different sophisticated models in the time available. A good approach would be to focus on just one outcome of interest and try models of increasing complexity after successfully submitting a basic linear model to the leaderboard.
+- 2 hours: In groups, build predictive models and submit to the [submission site](https://codalab.fragilefamilieschallenge.org/competitions/28) (note: for your course, the submission site may be different). Do not expect to try many different sophisticated models in the time available. A good approach would be to focus on just one outcome of interest and try models of increasing complexity after successfully submitting a basic linear model to the leaderboard.
 - 15 minutes: Whole group debrief for your site
 
 AT THE END OF THE ACTIVITY, DELETE THE DATA FILES. It is important that the data not sit on a local machine unnecessarily. If you would like access to the data for future research, you can download the data at any time from the OPR Data Archive.
