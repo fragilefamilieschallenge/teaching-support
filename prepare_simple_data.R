@@ -3,9 +3,18 @@
 # to produce a data file that can be used in predictive models.
 # Author: Ian Lundberg
 
+print("This code will save simplified version of the Fragile Families Challenge data, containing only a few variables and for which missing values of the background variables are imputed.")
+print("We prepared this code on R version 4.0.3.")
+print("")
+print("To use this code, do the following:")
+print("1. Register for and download FFChallenge_v5 from the OPR Data Archive")
+print("2. Unzip the folder FFChallenge_v5.")
+print("3. Set your working directory within R to the directory that contains the folder FFChallenge_v5")
+print("Do this by typing setwd('your_directory') in your R console.")
+print("4. Run this code by typing prepare_simple_data()")
+print("The output (example_prepared_data) will appear in your FFChallenge_v5 folder")
+
 prepare_simple_data <- function() {
-  print("This code will save simplified version of the Fragile Families Challenge data, containing only a few variables and for which missing values of the background variables are imputed.")
-  print("We prepared this code on R version 4.0.3.")
   print("Step 1 / 5. Load required packages: tidyverse (1.3.0), haven (2.3.1), Amelia (1.7.5)")
   # Load required packages
   has_tidyverse <- suppressMessages(require(tidyverse, quietly = T))
