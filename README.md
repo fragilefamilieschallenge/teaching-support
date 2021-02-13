@@ -11,3 +11,4 @@ Here are some other things that might be helpful in your classes.
 - Videos from Fragile Families Challenge Scientific Workshop: https://www.youtube.com/channel/UCjluzrRT8fqXCx3qHjQAb5A
 - Podcast about the Challenge: https://www.npr.org/programs/invisibilia/597779069/the-pattern-problem
 - Fragile Families Challenge Blog (many helpful posts): https://www.fragilefamilieschallenge.org/blog/
+- Some slides about Challenge: https://github.com/fragilefamilieschallenge/slides
