@@ -12,3 +12,6 @@ Here are some other things that might be helpful in your classes.
 - Podcast about the Challenge: https://www.npr.org/programs/invisibilia/597779069/the-pattern-problem
 - Fragile Families Challenge Blog (many helpful posts): https://www.fragilefamilieschallenge.org/blog/
 - Some slides about Challenge: https://github.com/fragilefamilieschallenge/slides
+- Special issue of Socius about the Challenge: https://journals.sagepub.com/topic/collections-srd/srd-1-fragile_families/srd
+
+It might be possible to set up a leaderboard just for your class.  If you are interested in this, you should contact the Fragile Families and Child Wellbeing Study Team.
