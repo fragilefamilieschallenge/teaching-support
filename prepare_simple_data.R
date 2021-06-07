@@ -183,7 +183,7 @@ prepare_simple_data <- function() {
   # Create one dataset for use in models
   example_prepared_data <- imputed$imputations$imp1 %>%
     # Construct the connectedness scale
-    mutate(connectedness_at_school = 1 / 5 * (k5e1a + k5e1b + k5e1c + k5e1d)) %>%
+    mutate(connectedness_at_school = 1 / 4 * (k5e1a + k5e1b + k5e1c + k5e1d)) %>%
     # Remove the outcomes because we do not want imputed values for the missing cases
     select(-gpa,-grit,-materialHardship,-layoff,-eviction,-jobTraining) %>%
     # Join with the training outcome data so that missing cases are coded as missing
