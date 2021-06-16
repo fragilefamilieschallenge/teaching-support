@@ -115,7 +115,7 @@ prepare_simple_data <- function() {
                                       ifelse(f5f23d <= 0, NA, f5f23d == 1),
                                       NA)),
       ## Use whether did work for pay the week of the age 9 interview
-      layoff_related_lag_whether_employed = ifelse(m5a2 %in% c(1,2),
+      layoff_related_lag_employed = ifelse(m5a2 %in% c(1,2),
                                                    ifelse(m5i4 > 0, m5i4 == 2, NA),
                                                    ifelse(f5a2 %in% c(1,2),
                                                           ifelse(f5i4 > 0, f5i4 == 2, NA),
@@ -131,7 +131,7 @@ prepare_simple_data <- function() {
            grit_related_lag_teacher_rating, 
            materialHardship_lagged, 
            eviction_lagged, 
-           layoff_related_lag_whether_employed, 
+           layoff_related_lag_employed, 
            jobTraining_lagged,
            # Demographic variables from the first wave
            cm1relf, cm1ethrace, cm1edu, cf1edu,
