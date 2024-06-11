@@ -14,4 +14,4 @@ Here are some other things that might be helpful in your classes.
 - Some slides about Challenge: https://github.com/fragilefamilieschallenge/slides
 - Special issue of Socius about the Challenge: https://journals.sagepub.com/topic/collections-srd/srd-1-fragile_families/srd
 
-It might be possible to set up a leaderboard just for your class.  If you are interested in this, you should contact the Fragile Families and Child Wellbeing Study Team.
+It is no longer possible to use our hosted leaderboard. The code for our leaderboard is [here](https://github.com/fragilefamilieschallenge/codalab-competitions).
