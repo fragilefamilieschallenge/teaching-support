@@ -1,6 +1,6 @@
 # teaching-support
 
-Supporting for using the Fragile Families Challenge as a teaching tool in courses
+Support for using the Fragile Families Challenge as a teaching tool in courses
 
 For students who download the FFChallenge_v5 file from the OPR Data Archive, this repository contains code that will read background.dta and train.csv and save a simplified version of those data, called example_prepared_data.
 
