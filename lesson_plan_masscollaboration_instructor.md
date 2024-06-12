@@ -20,7 +20,7 @@ Form groups of roughly 3 people randomly. You might consider distributing those 
 
 ### A note about scoring
 
-The [online submission site](https://codalab.fragilefamilieschallenge.org/competitions/28) (note: for your class, the correct link site may be different) scores submissions on the leaderboard set (530 cases, 1/8 of the sample). Participants are able to view their score on this set for each submission. In the original Challenge, we ultimately scored participants one time on the holdout set (1,591 cases). This is a more involved process; contact us if you think it would be helpful in your class. It will require us to manually download the submissions your class makes and send them to you, which you could then score against the true holdout outcomes available from the OPR data archive at FFChallenge_v5 / Fragile Families Challenge / test.zip.
+If you want to score student submissions on the leaderboard set and/or holdout set, you will need to write your own code for scoring. In the original Challenge, we scored participants multiple times on the leaderboard set, and ultimately scored participants one time on the holdout set (1,591 cases). The true leaderboard outcomes are available from the OPR data archive at Fragile Families Challenge / leaderboard.zip, and the true holdout outcomes are available at Fragile Families Challenge / test.zip.
 
 ### How to debrief
 
